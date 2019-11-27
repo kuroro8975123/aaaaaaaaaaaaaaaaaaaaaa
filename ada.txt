@@ -1,5 +1,3 @@
 aaaaaaaaaaaa
-<<<<<<< HEAD
-=======
 ‚½‚©‚è‚å‚¤
->>>>>>> 9c1a1fecc8eadcafa04fe113f42a97b19d824dd7
+‚¾‚ß
